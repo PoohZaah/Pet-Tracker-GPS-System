@@ -8,7 +8,7 @@ public class create_user_password extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
-        super.onreate(savedInstanceState);
+        super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_create_user_password);
     }
 }
